@@ -3,7 +3,7 @@
    * Vymezení hlavních cílů práce a rozsahu aplikace (co bude a nebude součástí)
 
 2. **Analýza a návrh**
-   * Zvolené technologie: PHP, HTML5, CSS3 a jejich vzájemná synergie
+   * Zvolené technologie: PHP, HTML, CSS a jejich vzájemná synergie
    * Návrh databáze: tabulky (`tymy`, `jezdci`, `zavody`, `vysledky`) a relace (1:N, N:M)
    * Návrh uživatelského rozhraní: barevné schéma, typografie a wireframy
 
